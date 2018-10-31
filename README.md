@@ -1,4 +1,6 @@
 # hello-world
 gxyTest
 
-My name is GXY.Welcome to my own little world.
+My name is GXY.
+It is a test.
+Thank you.
